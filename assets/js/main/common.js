@@ -25,6 +25,12 @@ $(".header__mobile-close").on("click", function () {
   $(".header__content").removeClass("open");
   clearInlineStyle($("body"));
 });
+if ($(window).width() < 1300) {
+  $(".header__nav ul a, .header .primary-btn").on("click", function () {
+    $(".header__content").removeClass("open");
+    clearInlineStyle($("body"));
+  });
+}
 /*phone mask */
 
 $("[data-tel-input]").inputmask({
