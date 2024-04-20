@@ -1,0 +1,63 @@
+@font-face {
+  font-family: Manrope;
+  src: url("Manrope-Regular.eot");
+  src: local("Manrope-Regular"), local("Manrope-Regular"),
+    url("Manrope-Regular.eot?#iefix") format("embedded-opentype"),
+    url("Manrope-Regular.woff") format("woff"),
+    url("Manrope-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Manrope;
+  src: url("Manrope-Light.eot");
+  src: local("Manrope-Light"), local("Manrope-Light"),
+    url("Manrope-Light.eot?#iefix") format("embedded-opentype"),
+    url("Manrope-Light.woff") format("woff"),
+    url("Manrope-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Blacker Sans Text;
+  src: url("BlackerSansText-Light.eot");
+  src: local("BlackerSansText-Light"), local("BlackerSansText-Light"),
+    url("BlackerSansText-Light.eot?#iefix") format("embedded-opentype"),
+    url("BlackerSansText-Light.woff") format("woff"),
+    url("BlackerSansText-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: SangBleu Kingdom;
+  src: url("sangbleu-kingdom-regular.eot");
+  src: local("SangBleu Kingdom"), local("SangBleu Kingdom"),
+    url("sangbleu-kingdom-regular.eot?#iefix") format("embedded-opentype"),
+    url("sangbleu-kingdom-regular.woff") format("woff"),
+    url("sangbleu-kingdom-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: SangBleu Kingdom Italic;
+  src: url("sangbleu-kingdom-italic.eot");
+  src: local("SangBleu Kingdom Italic"), local("SangBleu Kingdom Italic"),
+    url("sangbleu-kingdom-italic.eot?#iefix") format("embedded-opentype"),
+    url("sangbleu-kingdom-italic.woff") format("woff"),
+    url("sangbleu-kingdom-italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: TrajanPro3Regular;
+  src: url("TrajanPro3Regular.eot");
+  src: local("TrajanPro3Regular"), local("TrajanPro3Regular"),
+    url("TrajanPro3Regular.eot?#iefix") format("embedded-opentype"),
+    url("TrajanPro3Regular.woff") format("woff"),
+    url("TrajanPro3Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
