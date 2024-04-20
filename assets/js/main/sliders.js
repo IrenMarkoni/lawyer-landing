@@ -15,7 +15,7 @@ function priceSlider() {
         slidesPerView: 2.7,
         spaceBetween: 12
       },
-      378: {
+      460: {
         slidesPerView: 2.2
       },
       320: {
